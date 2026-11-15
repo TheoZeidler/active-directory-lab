@@ -14,7 +14,7 @@ Tools Used:
 
 - Windows client workstation
 
-**Step 1**: Identify the Problem
+<u>**Step 1**: Identify the Problem</u>
 
 - The user is unable to access their workstation because they have forgotten their domain password.
 
@@ -23,7 +23,7 @@ Tools Used:
 <img width="1512" height="982" alt="Screenshot 2026-11-04 at 8 45 24 PM" src="https://github.com/user-attachments/assets/757e8538-42d3-49af-a4b8-74dd569f267f" />
 
 
-**Step 2:** Locate the User in Active Directory
+<u>**Step 2:** Locate the User in Active Directory</u>
 
 - Open Active Directory Users and Computers on the domain controller.
 
@@ -34,7 +34,7 @@ Tools Used:
 <img width="1512" height="982" alt="Screenshot 2026-11-04 at 8 49 16 PM" src="https://github.com/user-attachments/assets/3a847b9a-d1c0-4bc3-ab80-f5c56d03fdca" />
 
 
-**Step 3:** Reset the User's Password
+<u>**Step 3:** Reset the User's Password</u>
 
 - Right-click the user's account.
 
@@ -49,7 +49,7 @@ Tools Used:
 <img width="446" height="198" alt="Screenshot 2026-11-04 at 8 49 39 PM" src="https://github.com/user-attachments/assets/7fe503ce-d510-4bf4-b066-e56e24a9f3e9" />
 
 
-**Step 4:** Verify the Password Reset
+<u>**Step 4:** Verify the Password Reset</u>
 
 - After resetting the password, the user can attempt to log in using their username and temporary password.
 
@@ -58,7 +58,7 @@ Tools Used:
 <img width="1512" height="982" alt="Screenshot 2026-11-04 at 8 51 51 PM" src="https://github.com/user-attachments/assets/842f29c4-9e6d-4a7e-bfd6-07992d77cb1a" />
 
 
-**Step 5:** Confirm Successful Login
+<u>**Step 5:** Confirm Successful Login</u>
 
 - The user successfully authenticates with their new password and regains access to their workstation.
 
