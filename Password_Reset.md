@@ -10,8 +10,6 @@ Tools Used:
 
 - Windows Server 2025
 
-- Active Directory Domain Services (AD DS)
-
 - Active Directory Users and Computers (ADUC)
 
 - Windows client workstation
@@ -62,14 +60,14 @@ Tools Used:
 
 **Step 5:** Confirm Successful Login
 
-The user successfully authenticates with their new password and regains access to their workstation.
+- The user successfully authenticates with their new password and regains access to their workstation.
 
 <img width="1512" height="982" alt="Screenshot 2026-11-04 at 8 52 37 PM" src="https://github.com/user-attachments/assets/08d70c08-e29d-49d5-8329-d2ef9a404f1f" />
 
 
 ## Outcome
 
-- <ins>Successfully resolved the user's login issue.</ins>
+- Successfully resolved the user's login issue.
 
 This exercise demonstrates the ability to:
 
